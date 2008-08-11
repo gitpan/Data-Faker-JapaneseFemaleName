@@ -1,5 +1,8 @@
 Revision history for Data-Faker-JapaneseFemaleName
 
+0.04    2008-08-11 19:47:55+0900
+	fixed bits to pass the test.
+
 0.03    2008-01-07 05:54:46+0900
 	use Module::Install.
 
